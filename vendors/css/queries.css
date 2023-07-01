@@ -1,0 +1,33 @@
+/* for big tablets*/
+@media only screen and (max-width: 1200px) {
+    body{ background-color: lightblue;
+    }
+}
+
+
+
+/* small to big tablets*/
+@media only screen and (max-width: 1023px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+
+/* for small tablets*/
+@media only screen and (max-width: 767px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+
+/* for small mobiles*/
+@media only screen and (max-width: 480px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
